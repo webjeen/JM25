@@ -51,10 +51,8 @@ JM25/
 ## 🌐 Project Links
 
 - 🌍 Official Website: [https://jm25.io](https://jm25.io)
-- 📊 BscScan: [JM25 Contract](https://bscscan.com/token/0x8DFA407d4adFF637...)
-- 💬 Community DAO: [https://discord.gg/jm25](https://discord.gg/jm25)
-- 🧾 Legal Whitepaper: [View PDF](https://jm25.io/whitepaper.pdf)
-
+- 📊 BscScan: [JM25 Contract](https://bscscan.com/address/0x22156BF97AF94842E73d56c77886626cF16209BE)
+- 🧾 Legal Whitepaper: [View PDF](https://drive.google.com/file/d/12R3Ef5TWdo5a61ZaWb7FP8bh_J1ws7hB/view?usp=drive_link)
 ---
 
 ## 🪙 Audit & Verification
