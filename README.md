@@ -12,8 +12,8 @@ Official smart contract repository for **JM25**, a next-generation K-Coin projec
 | **Symbol** | JM25 |
 | **Network** | Binance Smart Chain (BEP-20) |
 | **Total Supply** | 250,000,000 JM25 |
-| **Deployed By** | `0x8DFA407d4adFF637...` |
-| **Contract Address** | [View on BscScan](https://bscscan.com/token/0x8DFA407d4adFF637...) |
+| **Deployed By** | `0x8DFA407dCFD049A63870d24CF0fd2294dadFF637` |
+| **Contract Address** | [View on BscScan](https://bscscan.com/address/0x22156BF97AF94842E73d56c77886626cF16209BE) |
 | **Source Code** | [/contracts/JM25_ver5.sol](./contracts/JM25_ver5.sol) |
 
 ---
@@ -33,7 +33,7 @@ Official smart contract repository for **JM25**, a next-generation K-Coin projec
 
 ## 🧩 Technical Overview
 
-JM25 is an ERC-20 compatible token built on **Solidity 0.8.x**, implementing:
+JM25 is an ERC-20 compatible token built on **Solidity 0.8.20, implementing:
 - 🔒 Ownership & Access Control  
 - 🔁 Transfer Tax & Auto Burn Function  
 - 🔐 Vesting, Airdrop, and Liquidity Lock mechanisms  
